@@ -15,6 +15,8 @@ Um das Programm zu bedienen, müssen folgende Schritte ausgeführt werden:
 3. Kopieren des Programmcodes und Einfügen in das Python-Skript.
 4. Speichern des Skripts und Ausführen.
 
+![Bildschirmfoto](https://github.com/b1gm0/Stochastik-Rechenprogramm/blob/main/Bildschirmfoto.png?raw=true)
+
 Das Programm kann auch über die Befehlszeile ausgeführt werden, indem das Skript über den Befehl "python" gestartet wird. Dazu wird die Befehlszeile oder das Terminal auf dem Computer geöffnet und zum Ordner navigiert, in dem das Skript gespeichert ist. Der Befehl "python3 rechenprogramm.py" wird eingegeben, um das Programm auszuführen. Es sollte darauf geachtet werden, dass Python 3 auf dem Computer installiert ist, bevor dieser Schritt ausgeführt wird.
 
 ## Lizenz
