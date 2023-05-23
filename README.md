@@ -1,4 +1,3 @@
-<html>
 # Stochastik-Rechenprogramm
 
 Dieses Programm berechnet die relative Häufigkeit eines Ereignisses basierend auf der absoluten Häufigkeit und dem Gesamtwert. Es nimmt zwei Eingaben entgegen, die absolute Häufigkeit und den Gesamtwert, und berechnet dann die relative Häufigkeit als Prozentsatz, indem es die absolute Häufigkeit durch den Gesamtwert teilt und mit 100 multipliziert. Anschließend berechnet das Programm die Gegenhäufigkeit als Komplement zur relativen Häufigkeit.
@@ -25,4 +24,3 @@ Das Programm kann auch über die Befehlszeile ausgeführt werden, indem das Skri
 ## Lizenz
 
 MIT-Lizenz
-<html>
